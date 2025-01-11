@@ -14,7 +14,7 @@ The SVGs are not the cleanest files and may have issues, like odd layer grouping
 
 We are releasing all of these assets under a Creative Commons license, specifically [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL).
 
-This means you can take our files, reproduce and modify them for personal use, but you are not allowed to sell them or release them under a different license. As an example, it’s fine to change some colors, print a bunch of stickers, stick them on your laptop and hand them out at a conference, but please don’t put them on t-shirts to sell in your Shopify shop. It would also be nice if you gave us credit, e.g. when you share your stickers in a social media post, but it’s not required on the stickers themselves.
+This means you can take our files, reproduce and modify them for personal use, but you are not allowed to sell them or release them under a different license. As an example, it’s fine to change some colors, print a bunch of stickers, stick them on your laptop and hand them out at a conference, but please don’t put them on t-shirts to sell in your online shop. It would also be nice if you gave us credit, e.g. when you share your stickers in a social media post, but it’s not required to put any Village One reference on the stickers themselves.
 
 See the link or LICENSE.txt for details.
 
