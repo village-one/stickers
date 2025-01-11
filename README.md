@@ -4,6 +4,8 @@ Hi, we are [Village One](https://www.village.one), a worker-owned and somewhat u
 
 We hand them out at conferences, send them to friends and clients, stick them on our phones and laptops. People frequently ask us if they can have a few. Therefore this repo holds all our sticker images as SVGs and high-res PNGs, under a permissive license, so you can print them yourself! It also serves for our own reference. [You can find photo impressions over on our website.](https://www.village.one/garden/library/village-one-stickers)
 
+![impression](https://github.com/user-attachments/assets/15262ded-9e12-47dc-93ff-6af2b7f08aae)
+
 ## File structure and some notes
 
 Each folder contains one sticker motif, sometimes in multiple variants, e.g. different color themes. There’s always a high-res PNG and an SVG. Some of the files have transparent areas, because we printed them as holographic stickers—this may or may not work for you, depending on your chosen printing service. Feel free to modify according to your needs.
