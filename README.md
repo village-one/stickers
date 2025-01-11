@@ -35,3 +35,7 @@ You can find lots of photo impressions on the Village One website, [specifically
 ## Did you use them?
 
 Let us know, send us photos! You can reach us under [hello@village.one](mailto:hello@village.one), [tag us on Instagram](https://www.instagram.com/VillageOneCoop) or [send us a toot on Mastodon](https://toot.village.one/@VillageOneCoop).
+
+## Credit where credit is due
+
+Our stickers have been designed by [Christoph Rauscher](https://www.christophrauscher.de), [Harry Keller](https://www.harryfk.com) and [Julia Shkatova](https://designed-by-julia.webflow.io), with input from other Village One team members.
