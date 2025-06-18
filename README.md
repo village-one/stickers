@@ -40,4 +40,4 @@ Let us know, send us photos! You can reach us under [hello@village.one](mailto:h
 
 ## Credit where credit is due
 
-Our stickers have been designed by [Christoph Rauscher](https://www.christophrauscher.de), [Harry Keller](https://www.harryfk.com) and [Julia Shkatova](https://designed-by-julia.webflow.io), with input from other Village One team members.
+Our stickers have been designed by [Christoph Rauscher](https://www.christophrauscher.de), [Harry Keller](https://www.harryfk.com), [Zhuo-Fei Hui](https://www.zfhui.de) and [Julia Shkatova](https://designed-by-julia.webflow.io), with input from other Village One team members.
