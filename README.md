@@ -10,7 +10,7 @@ We hand them out at conferences, send them to friends and clients, stick them on
 
 Each folder contains one sticker motif, sometimes in multiple variants, e.g. different color themes. There’s always a high-res PNG and an SVG. Some of the files have transparent areas, because we printed them as holographic stickers—this may or may not work for you, depending on your chosen printing service. Feel free to modify according to your needs.
 
-The SVGs are not the cleanest files and may have issues, like odd layer grouping or too many vector points. Some of the stickers were not created by designers, some of them were done in a rush, initially we also never suspected to release the files publically. You know how it is, better done than prfect.
+The SVGs are not the cleanest files and may have issues, like odd layer grouping or too many vector points. Some of the stickers were not created by designers, some of them were done in a rush, initially we also never suspected to release the files publically. You know how it is, better done than prfect. No generative AI was used to create any of them.
 
 ## License
 
@@ -28,7 +28,7 @@ Most stickers use the [GT Flexa](https://www.grillitype.com/typeface/gt-flexa) t
 
 We initially used Stickermule and their quality is exceptional, but they are also a [shitty](https://slate.com/business/2024/07/sticker-mule-ceos-pro-trump-maga-email-surprised-employees.html) company with a MAGA founder, so we advise against them and we don’t use their services anymore.
 
-Instead, we’ve chosen [Sticker App](https://stickerapp.com) recently and can highly recommend them. Tons of options (e.g. backside printing), decent quality, fast delivery and reasonable prices.
+Instead, we’ve chosen [Sticker App](https://stickerapp.com) recently and can highly recommend them. Tons of options (e.g. back printing), decent quality, fast delivery and reasonable prices.
 
 ## What do they look like?
 
